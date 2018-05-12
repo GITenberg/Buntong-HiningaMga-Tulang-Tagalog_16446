@@ -1,0 +1,28 @@
+_repo: Buntong-HiningaMga-Tulang-Tagalog_16446
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16446-h/images/cover_big.jpg
+creator:
+  author:
+    agent_name: Leon, Pascual de
+    birthdate: 1893
+    deathdate: 1958
+    gutenberg_agent_id: '6719'
+    url: http://www.gutenberg.org/2009/agents/6719
+description: ''
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16446'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tagalog poetry'
+- !lcc 'PL'
+title: 'Buntong Hininga
+
+  Mga Tulang Tagalog'
+url: http://www.gutenberg.org/ebooks/16446
